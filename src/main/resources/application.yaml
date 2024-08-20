@@ -1,0 +1,13 @@
+server:
+    port: 8083
+
+spring:
+    application:
+        name: CodeExecutionService
+
+logging:
+    level:
+        root: INFO
+        ru.abushaev: DEBUG
+
+
